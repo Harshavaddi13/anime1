@@ -1,0 +1,53 @@
+body
+{
+    background:url('back.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.line1
+{
+    text-align: center;
+    letter-spacing: 400px;
+}
+h1
+{
+    
+    text-align: center;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
+h3{
+    color: antiquewhite;
+    text-align: center;
+}
+.line2
+{
+    text-align: center;
+    letter-spacing: 400px;
+}
+.music1
+{
+    color: black;
+    text-align: center;
+    word-spacing: 550px;
+}
+.music2
+{
+    text-align: center;
+    word-spacing: 550px;
+}
+.image
+{
+   border-radius: 10px 10px 10px 10px;
+    margin-left: 30px;
+   margin-top: 30px;
+   padding :block end 20px;
+}
+.head
+{
+    color: blueviolet;
+    background-color: aliceblue;
+    text-align: center;
+}
